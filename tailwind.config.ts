@@ -19,11 +19,11 @@ export default {
 		},
 		extend: {
 			colors: {
-				'brand-pink': '#FF6B9D',
-				'brand-blue': '#4ECDC4',
-				'brand-purple': '#9B5DE5',
-				'brand-yellow': '#F15BB5',
-				'brand-green': '#00F5FF',
+				'bubblegum': '#FF1B8D',
+				'lime': '#32FF32',
+				'comic-black': '#000000',
+				'comic-white': '#FFFFFF',
+				'star-pink': '#FF69B4',
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
