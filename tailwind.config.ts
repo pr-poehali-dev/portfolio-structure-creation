@@ -19,10 +19,11 @@ export default {
 		},
 		extend: {
 			colors: {
-				coral: '#FF6B6B',
-				skyblue: '#45B7D1',
-				lavender: '#DDA0DD',
-				charcoal: '#2D3436',
+				'brand-pink': '#FF6B9D',
+				'brand-blue': '#4ECDC4',
+				'brand-purple': '#9B5DE5',
+				'brand-yellow': '#F15BB5',
+				'brand-green': '#00F5FF',
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
